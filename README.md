@@ -50,6 +50,6 @@ This project demonstrates the frontend design of a modern website hosting platfo
 No license has been specified yet.
 
 ---
-view live demo click on this link 👉 https://www-website-hosting-ui.netlify.app
+view live demo click on this link 👇 https://www-website-hosting-ui.netlify.app
 
 Made with by ABHH-Abhhash
